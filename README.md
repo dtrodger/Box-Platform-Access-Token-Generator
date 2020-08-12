@@ -1,6 +1,7 @@
 ## Box Platform Access Token Generator 
 ### Set up and Run  
-1. From the project root folder, create a Python 3.6+ virtual environment `$ virtualenv --python=python3 env`  
+1. From the project root folder, create a Python 3.6+ virtual environment  
+`$ virtualenv --python=python3 env`  
 2. Activate the virtual environment  
 `$ source env/bin/activate`  
 3. Install the project dependencies  
