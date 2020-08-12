@@ -8,4 +8,4 @@
 `$ pip install -r requirements.txt`  
 4. Create a file at the project root folder called `box_jwt_keys.yml` and add your Box Platform JWT keys  
 5. Run the app to output an access token in your terminal  
-`python main.py`  
+`$ python main.py`  
